@@ -3,7 +3,7 @@
     <string name="appCenterCrashes_whenToSendCrashes"
             moduleConfig="true"
             translatable="false">ALWAYS_SEND</string>
-    <string name="appCenterAnaytics_whenToEnableAnalytics"
+    <string name="appCenterAnalytics_whenToEnableAnalytics"
             moduleConfig="true"
             translatable="false">ALWAYS_SEND</string>
 </resources>
